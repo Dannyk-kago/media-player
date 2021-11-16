@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TODO APP</string>
+    <string name="get_things_done_with_todo">Get Things Done With TODO</string>
+    <string name="get_started">Get Started</string>
+    <string name="todo">TODO</string>
+    <string name="welcome_onboard">Welcome onboard!</string>
+    <string name="help_task">Let help you me up your task</string>
+    <string name="full_name">Enter your full name</string>
+    <string name="task_list">Task List</string>
+    <string name="welcome_daniel_kago">Welcome Mary Njeri</string>
+</resources>
