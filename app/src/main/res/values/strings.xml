@@ -7,5 +7,6 @@
     <string name="help_task">Let help you me up your task</string>
     <string name="full_name">Enter your full name</string>
     <string name="task_list">Task List</string>
-    <string name="welcome_daniel_kago">Welcome Mary Njeri</string>
+    <string name="welcome_username">Welcome Jane Doe</string>
+    <string name="todo_title">Title</string>
 </resources>

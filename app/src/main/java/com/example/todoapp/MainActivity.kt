@@ -18,6 +18,5 @@ class MainActivity : AppCompatActivity() {
                 startActivity(nextActivity)
             }
         }
-
     }
 }
